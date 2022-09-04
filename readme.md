@@ -23,6 +23,10 @@ If you found a Bug Please report the bug according to. (Please read through [Bug
 
 **If you have a suggestion or have a question or want a feature request please head over to [discussions](https://github.com/PaulleDemon/AdoStrings-support/discussions)**
 
+## Want to contribute to this open-source network?
+
+read the contributing guidelines [here](https://github.com/PaulleDemon/AdoStrings-support/blob/main/contributing/contributing-guidelines.md)
+
 --------
 ## Source code:
 If you are a developer or just curious and want to look into the source code you can do so from the below links
