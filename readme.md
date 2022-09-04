@@ -6,6 +6,9 @@
 
 support for adostrings, give feedback, feature request here
 
+## Docs
+
+Read the documentation on how to use the application [here](https://github.com/PaulleDemon/AdoStrings-support/blob/main/docs/index.md)
 
 ## Reporting Bugs
 
