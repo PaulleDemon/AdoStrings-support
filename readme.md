@@ -1,7 +1,7 @@
 # AdoStrings-Support
 
 <p align="center">
-  <img src="https://github.com/PaulleDemon/AdoStrings-support/blob/main/images/logo-thick.svg" alt="AdoStrings icon" width=350px" height="350px"/>
+  <img src="https://github.com/PaulleDemon/AdoStrings-support/blob/main/adologos/logo.svg" alt="AdoStrings icon" width=350px" height="350px"/>
 </p>
 
 support for adostrings, give feedback, feature request here
