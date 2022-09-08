@@ -21,7 +21,7 @@ We categorize bugs into 3 categories depending on the severity;
 4. Important functionality is broken or unavailable but a workaround exists.
 
 **Critical**
-1. The bug prevents the core functionality of the platform (eg: chat, signup, login etc).
+1. The bug prevents the core functionality of the platform (eg: posting story, searching, signup, login etc).
 2. The bug causes a security vulnerability
 
 To report a bug on Github you may need to signup:
