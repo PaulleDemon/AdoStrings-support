@@ -14,8 +14,8 @@ Read the documentation on how to use the application [here](https://github.com/P
 
 If you found a Bug Please report the bug according to. (Please read through [Bug reporting Guidlines](https://github.com/PaulleDemon/AdoStrings-support/blob/main/bug-reporting.md))
 
-1. [Frontend bug](https://github.com/PaulleDemon//issues)
-2. [Backend bug, (eg: 500 status errors)](https://github.com/PaulleDemon//issues)
+1. [Frontend bug](https://github.com/PaulleDemon/AdoStrings-frontend/issues/new?assignees=&labels=&template=bug_report.md&title=)
+2. [Backend bug, (eg: 500 status errors)](https://github.com/PaulleDemon/Adostrings-backend/issues/new?assignees=&labels=&template=bug_report.md&title=)
 
 * If you think the bug is related to frontend please raise issue in the first option. Frontend bugs includes forms that cannot be submitted, the webpage broken visually, broken links, typos etc falls under this category.
 
@@ -31,8 +31,8 @@ read the contributing guidelines [here](https://github.com/PaulleDemon/AdoString
 ## Source code:
 If you are a developer or just curious and want to look into the source code you can do so from the below links
 
-1. [Source for front end](https://github.com/PaulleDemon/)
-2. [source for back end](https://github.com/PaulleDemon/)
+1. [Source for front end](https://github.com/PaulleDemon/AdoStrings-frontend#adostrings---adostringcom)
+2. [source for back end](https://github.com/PaulleDemon/Adostrings-backend#adostrings---adostringcom)
 
 ------
 
