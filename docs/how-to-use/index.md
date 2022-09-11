@@ -73,6 +73,7 @@ Stories are what you wish to share to the people in your organization.
 Stories can be an event, request or just a plain story.
 
 **Writing story**
+
 <img src="../images/how-to-use/stories-modal.png" height="250px" width="250px" alt="buy me a coffee">
 
 You can start wrting a story by clicking on the pen icon on the top right corner.
@@ -85,3 +86,57 @@ You can make use of the drop-down to select the type of the story (eg: story(def
 
 **request**: You can request for a specified skill using # followed by the skill name eg: #reactjs, so this will notify all the people who have reactjs as one of their skills.
 
+### People
+
+**Peoples tab**
+
+<img src="../images/how-to-use/people-tab.png" height="350px" width="200px" alt="buy me a coffee">
+
+Peoples tab is where you can vote people based on what they are, eg you can vote for people who are funny by clicking on the drop-down and the emoji icon beside each user.
+
+**Requests tab**
+
+<img src="../images/how-to-use/requests-tab.png" height="350px" width="200px" alt="buy me a coffee">
+
+The requests tab is where you vote to open a new category, so you can start voting people based on the category.
+
+### Charts-tab
+
+<img src="../images/how-to-use/charts-tab.png" height="350px" width="200px" alt="buy me a coffee">
+
+The stats for nerds are made for data scientists, ML & AI enthuists and others who are interested in knowing from which departments the specified skilled people come from.
+
+
+### search
+
+<img src="../images/how-to-use/search.png" height="150px" width="400px" alt="buy me a coffee">
+
+**basic search**
+You can search users by name, email or tag name.
+
+**advanced search**
+you can search users based on skill or achievements or name starting with, or combine all these queries using the following queries
+
+Use the following queries in the search bar.
+
+**searching users by skills**
+
+`skills=skillname1,skillname2|skillname3`
+
+Note the `,` stands for and and `|` represents or.
+
+The `,` is evaluated first and then the `|`. Also no spaces between `,` and `|`, you can combine them in any order.
+
+
+**searching users by achievements**
+`achievements=achievement1,achievement2|achievement3`
+
+**searching based on names**
+`name=pau`
+
+The above query returns anyones name starting with pau
+
+**combining queries**
+You can also combine theses queries to filter out through a lot of results by seperating them with a semicolon `;`
+
+`skills=skill1|skill2; name=pau; achievements=nobel prize`
