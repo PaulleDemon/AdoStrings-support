@@ -26,7 +26,7 @@ If you found a Bug Please report the bug according to. (Please read through [Bug
 
 ## Want to contribute to this open-source network?
 
-read the contributing guidelines [here](https://github.com/PaulleDemon/AdoStrings-support/blob/main/contributing/contributing-guidelines.md)
+read the contributing guidelines [here](https://github.com/PaulleDemon/AdoStrings-support/blob/main/contributing/contributing.md)
 
 --------
 ## Source code:
