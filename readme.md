@@ -6,7 +6,6 @@
 
 support for adostrings, give feedback, feature request here
 
-Read about Adostrings
 
 ## Docs
 
