@@ -23,20 +23,3 @@ If you found a Bug Please report the bug according to. (Please read through [Bug
 * If you encounter 500 errors, or found security vulnerability, Please report it in the second option.
 
 **If you have a suggestion or have a question or want a feature request please head over to [discussions](https://github.com/PaulleDemon/AdoStrings-support/discussions)**
-
-## Want to contribute to this open-source network?
-
-read the contributing guidelines [here](https://github.com/PaulleDemon/AdoStrings-support/blob/main/contributing/contributing.md)
-
---------
-## Source code:
-If you are a developer or just curious and want to look into the source code you can do so from the below links
-
-1. [Source for front end](https://github.com/PaulleDemon/AdoStrings-frontend#adostrings---adostringcom)
-2. [source for back end](https://github.com/PaulleDemon/Adostrings-backend#adostrings---adostringcom)
-
-------
-
-Hey there, I am Paul, an open-source enthusiast. If you love adostrings and want me to write more open-source codes, consider buying be a Coffee, so I can have energy to write more. Thank you.
-
-[<img src="https://github.com/PaulleDemon/LonersMafia-support/blob/main/images/supportme/buy-me-coffee.png" height="100px" width="350px" alt="buy me a coffee">](https://www.buymeacoffee.com/ArtPaul)
