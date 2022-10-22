@@ -28,8 +28,7 @@ To report a bug on Github you may need to signup:
 
 **Process**
 
-1. Head over to the [Frontend issues tab](https://github.com/PaulleDemon/), for frontend related issues. 
-[Backend issues tab](https://github.com/PaulleDemon/) for backend related issues.
+1. Head over to the [issues tab](https://github.com/PaulleDemon/AdoStrings-support/issues).
 
 2. Use the search functionality in the issues tab to search if the issue has already been reported. If yes, just give a thumbs up to that issue, 
 If not proceed with the below.
@@ -41,9 +40,6 @@ Eg: Not enough contrast between text and background in chat page [LOW]
 
 ----
 
-1. [Frontend bug](https://github.com/PaulleDemon)
-2. [Backend bug, (eg: 500 status errors)](https://github.com/PaulleDemon)
+Frontend bugs includes forms that cannot be submitted, the webpage broken visually, broken links, typos etc falls under this category.
 
-* If you think the bug is related to frontend please raise issue in the first option. Frontend bugs includes forms that cannot be submitted, the webpage broken visually, broken links, typos etc falls under this category.
-
-* If you encounter 500 errors, or found security vulnerability, Please report it in the second option.
+* If you encounter 500 errors, or found security vulnerability, its backend error
