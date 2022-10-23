@@ -15,11 +15,10 @@ Read the documentation on how to use the application [here](https://github.com/P
 
 If you found a Bug Please report the bug according to. (Please read through [Bug reporting Guidlines](https://github.com/PaulleDemon/AdoStrings-support/blob/main/bug-reporting.md))
 
-1. [Frontend bug](https://github.com/PaulleDemon/AdoStrings-frontend/issues/new?assignees=&labels=&template=bug_report.md&title=)
-2. [Backend bug, (eg: 500 status errors)](https://github.com/PaulleDemon/Adostrings-backend/issues/new?assignees=&labels=&template=bug_report.md&title=)
+[create issue](https://github.com/PaulleDemon/AdoStrings-support/issues/new?assignees=&labels=&template=bug-report.md&title=)
 
-* If you think the bug is related to frontend please raise issue in the first option. Frontend bugs includes forms that cannot be submitted, the webpage broken visually, broken links, typos etc falls under this category.
+* Frontend bugs includes forms that cannot be submitted, the webpage broken visually, broken links, typos etc falls under this category.
 
-* If you encounter 500 errors, or found security vulnerability, Please report it in the second option.
+* If you encounter 500 errors, or found security vulnerability, its backend error
 
 **If you have a suggestion or have a question or want a feature request please head over to [discussions](https://github.com/PaulleDemon/AdoStrings-support/discussions)**
