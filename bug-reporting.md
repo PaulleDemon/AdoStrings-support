@@ -33,10 +33,11 @@ To report a bug on Github you may need to signup:
 2. Use the search functionality in the issues tab to search if the issue has already been reported. If yes, just give a thumbs up to that issue, 
 If not proceed with the below.
 
-3. Give it an short appropriate descriptive title followed by the category (low, high, critical) in a square bracket. 
-Eg: Not enough contrast between text and background in chat page [LOW]
+3. Give it an short appropriate descriptive title followed by a label (low, high, critical). 
 
-4. In the description, please describe the issue in detail, such as the steps to reproduce, screenshots (if necessary), error codes etc.
+4. Add if its frontend bug or backend bug in square brackets eg: spelling error in sign up page [fontend]
+
+5. In the description, please describe the issue in detail, such as the steps to reproduce, screenshots (if necessary), error codes etc.
 
 ----
 
