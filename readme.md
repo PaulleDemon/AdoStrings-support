@@ -21,4 +21,4 @@ If you found a Bug Please report the bug according to. (Please read through [Bug
 
 * If you encounter 500 errors, or found security vulnerability, its backend error
 
-**If you have a suggestion or have a question or want a feature request please head over to [discussions](https://github.com/PaulleDemon/AdoStrings-support/discussions)**
+**If you have a suggestion or have a question please head over to [discussions](https://github.com/PaulleDemon/AdoStrings-support/discussions)**
