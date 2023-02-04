@@ -18,6 +18,7 @@ Follow PEP-8 guidlines.
 **JavaScript**:
 
 1. camelCased names for functions.
+2. No semicolons, unless you are writing inline code.
 
 **react-query library naming convention**
 
