@@ -19,6 +19,11 @@ Follow PEP-8 guidlines.
 
 1. camelCased names for functions.
 2. No semicolons, unless you are writing inline code.
+3. Folders and files names must be in lower case/ [kebab-case](https://www.freecodecamp.org/news/snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-whats-the-difference/#kebab-case)
+4. intend using tabs, tab space 4.
+
+**CSS** 
+1. Use kebab-case for naming classes.
 
 **react-query library naming convention**
 
